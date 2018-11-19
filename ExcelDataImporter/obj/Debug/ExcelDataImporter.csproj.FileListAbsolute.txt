@@ -1,0 +1,15 @@
+D:\Asura\DataImporter.Excel\ExcelDataImporter\ExcelDataImporter\bin\Debug\ExcelDataImporter.exe.config
+D:\Asura\DataImporter.Excel\ExcelDataImporter\ExcelDataImporter\bin\Debug\ExcelDataImporter.exe
+D:\Asura\DataImporter.Excel\ExcelDataImporter\ExcelDataImporter\bin\Debug\ExcelDataImporter.pdb
+D:\Asura\DataImporter.Excel\ExcelDataImporter\ExcelDataImporter\obj\Debug\ExcelDataImporter.csprojResolveAssemblyReference.cache
+D:\Asura\DataImporter.Excel\ExcelDataImporter\ExcelDataImporter\obj\Debug\MainWindow.g.cs
+D:\Asura\DataImporter.Excel\ExcelDataImporter\ExcelDataImporter\obj\Debug\App.g.cs
+D:\Asura\DataImporter.Excel\ExcelDataImporter\ExcelDataImporter\obj\Debug\ExcelDataImporter_MarkupCompile.cache
+D:\Asura\DataImporter.Excel\ExcelDataImporter\ExcelDataImporter\obj\Debug\ExcelDataImporter_MarkupCompile.lref
+D:\Asura\DataImporter.Excel\ExcelDataImporter\ExcelDataImporter\obj\Debug\MainWindow.baml
+D:\Asura\DataImporter.Excel\ExcelDataImporter\ExcelDataImporter\obj\Debug\ExcelDataImporter.g.resources
+D:\Asura\DataImporter.Excel\ExcelDataImporter\ExcelDataImporter\obj\Debug\ExcelDataImporter.Properties.Resources.resources
+D:\Asura\DataImporter.Excel\ExcelDataImporter\ExcelDataImporter\obj\Debug\ExcelDataImporter.csproj.GenerateResource.cache
+D:\Asura\DataImporter.Excel\ExcelDataImporter\ExcelDataImporter\obj\Debug\ExcelDataImporter.csproj.CoreCompileInputs.cache
+D:\Asura\DataImporter.Excel\ExcelDataImporter\ExcelDataImporter\obj\Debug\ExcelDataImporter.exe
+D:\Asura\DataImporter.Excel\ExcelDataImporter\ExcelDataImporter\obj\Debug\ExcelDataImporter.pdb
